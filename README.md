@@ -1,2 +1,2 @@
-# totalitycorp-frontend-challenge
+#frontend-challenge
 
